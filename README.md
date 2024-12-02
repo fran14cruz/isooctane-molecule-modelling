@@ -19,8 +19,8 @@
 Go back to [Contents](#contents)
 
 # _Viscosity_ calculation
-* [Jupyter notebook for Viscosity][Task "Isooctane molecule - viscosity".ipynb]
-
+* [Jupyter notebook for Viscosity](https://github.com/fran14cruz/isooctane-molecule-modelling/blob/master/Task%20%22Isooctane%20molecule%20-%20viscosity%22.ipynb)
+  
 Go back to [Contents](#contents)
 
 # Software and Technologies
