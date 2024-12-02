@@ -1,4 +1,4 @@
-# Higher School of Economics <br/> <br/> Third Year Coursework 
+# National University - Higher School of Economics <br/> <br/> Third Year Coursework 
 ## **Title:** [Сomputer simulation of fluid properties][intro-video]
 ## **Название:** [Компьютерное моделирование свойств жидкостей][intro-video]
 * ### **Objective:** 
@@ -14,16 +14,12 @@
 
 # _Density_ calculation
 
-* [Jupyter notebook][dc_jn]
+* [Jupyter notebook for Density][dc_jn]
 
 Go back to [Contents](#contents)
 
 # _Viscosity_ calculation
-* Files to 
-
-1. Step 1
-2. Step 2
-3. Step 3
+* [Jupyter notebook for Viscosity][Task "Isooctane molecule - viscosity".ipynb]
 
 Go back to [Contents](#contents)
 
